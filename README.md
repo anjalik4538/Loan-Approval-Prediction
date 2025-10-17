@@ -3,14 +3,14 @@
 This project predicts whether a loan application will be approved or rejected based on applicant details such as income, loan amount, credit history, and other factors.
 It applies data preprocessing, visualization, and machine learning techniques to achieve accurate predictions.
 
-📘<h1> Overview<h1>
+<h1>📘 Overview<h1>
 
 Loan approval is a critical process for financial institutions. This project uses Machine Learning algorithms to automate and improve the decision-making process for loan approvals.
 
 The model is trained on a dataset containing various applicant information and predicts loan status (Approved / Not Approved).
 
 
-📂<h1> Dataset<h1>
+<h1>📂 Dataset<h1>
 
 Dataset Name: loan_dataset.csv
 
@@ -42,7 +42,7 @@ Property_Area
 
 Loan_Status
 
-⚙️<h1> Technologies Used<h1>
+<h1>⚙️ Technologies Used<h1>
 
 Python
 
@@ -54,7 +54,7 @@ Matplotlib / Seaborn – Data visualization
 
 Scikit-Learn – Machine Learning models
 
-🧠<h1> Machine Learning Models Used<h1>
+<h1>🧠 Machine Learning Models Used<h1>
 
 Logistic Regression
 
@@ -64,7 +64,7 @@ Random Forest Classifier
 
 Support Vector Machine (SVM)
 
-📊<h1> Project Workflow<h1>
+<h1>📊 Project Workflow<h1>
 
 1.Data Loading
 
