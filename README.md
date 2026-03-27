@@ -1,13 +1,13 @@
 <h1>🏦 Loan Approval Prediction using Machine Learning<h1>
 
-This project predicts whether a loan application will be approved or rejected based on applicant details such as income, loan amount, credit history, and other factors.
-It applies data preprocessing, visualization, and machine learning techniques to achieve accurate predictions.
+<p>This project predicts whether a loan application will be approved or rejected based on applicant details such as income, loan amount, credit history, and other factors.
+It applies data preprocessing, visualization, and machine learning techniques to achieve accurate predictions.</p>
 
 <h1>📘 Overview<h1>
 
-Loan approval is a critical process for financial institutions. This project uses Machine Learning algorithms to automate and improve the decision-making process for loan approvals.
+<p>Loan approval is a critical process for financial institutions. This project uses Machine Learning algorithms to automate and improve the decision-making process for loan approvals.
 
-The model is trained on a dataset containing various applicant information and predicts loan status (Approved / Not Approved).
+The model is trained on a dataset containing various applicant information and predicts loan status (Approved / Not Approved).</p>
 
 
 <h1>📂 Dataset<h1>
